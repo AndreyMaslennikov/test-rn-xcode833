@@ -1254,7 +1254,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.testXcode833-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -1280,7 +1280,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.testXcode833-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -1305,7 +1305,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.testXcode833-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.allTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testXcode833-tvOS.app/testXcode833-tvOS";
@@ -1330,7 +1330,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.testXcode833-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.allTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testXcode833-tvOS.app/testXcode833-tvOS";
