@@ -1214,6 +1214,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = testXcode833;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1231,6 +1232,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = testXcode833;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
